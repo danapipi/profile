@@ -1,0 +1,31 @@
+body {
+    background-color: #eeeeee;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+h5 {
+    margin: auto;
+    line-height: 30px;
+    font-family: 'Cookie', cursive;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    
+}
+
+#text {
+    text-align: right;
+}
+
+
