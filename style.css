@@ -2,6 +2,10 @@ body {
     background-color: #eeeeee;
 }
 
+nav .text {
+    font-size: 20px;
+    text-align: center;
+}
 h3 {
     text-align: center;
     font-family: 'Cookie', cursive;
@@ -16,16 +20,20 @@ h5 {
 }
 
 img {
-    border-radius: 50%;
+    border-radius: 25%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 30px;
-    
+  
 }
 
 #text {
     text-align: right;
+}
+
+nav ul a {
+    font-size: 25px;
 }
 
 
